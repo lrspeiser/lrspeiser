@@ -7,35 +7,60 @@ Most of the code in my repositories wasn't typed by me, but by AI systems workin
 ---
 
 ## 🔧 What I Build
+
 I build things powered by LLMs — whether they're interactive games, educational experiments, or tools that stretch the imagination. Some highlights:
 
-### 🕹 [Grue.is](https://github.com/lrspeiser/Grue.is)
-> A GPT/Claude-powered game inspired by *Oregon Trail* but with infinite historical rabbit holes. Where the LLM *is* the dungeon master. Built entirely with LLMs under my direction.
+### 🦙 [Alpaca.is](https://github.com/lrspeiser/Alpaca.is)  
+**Interactive City Exploration App**  
+> A mobile-first platform that gamifies travel through AI-generated, city-specific bingo cards. Designed for students and explorers, Alpaca encourages discovery through:
+> - Unique local activities per destination  
+> - Optional photo-based check-ins  
+> - Progress tracking across cities  
+> - AI-personalized travel prompts and challenges
 
-### 🎯 [ForceRank](https://github.com/lrspeiser/ForceRank)
-> A party game for structured debates and messy opinions. Rank your preferences, argue with friends, repeat.
+### 🧠 [Wordy](https://github.com/lrspeiser/Wordy)  
+**AI-Powered Thematic Crossword Generator**  
+> Generates 4x4 themed crossword puzzles using GPT-4.1. Each puzzle includes:
+> - Original clues and creative titles  
+> - Thematic coherence with educational value  
+> - Persistent saves for replayability  
+> - A unique gameplay experience every time
 
-### 🧩 [Kazuke](https://github.com/lrspeiser/Kazuke)
-> A language-model-assisted puzzle game for practicing mental math and strategic planning.
+### 🕹 [Grue.is](https://github.com/lrspeiser/Grue.is)  
+**Historical RPG Meets LLM**  
+> A GPT/Claude-powered game inspired by *Oregon Trail* but with infinite historical rabbit holes. The LLM *is* the dungeon master.
 
-### 🔁 [Node-GPT-Template](https://github.com/lrspeiser/Node-GPT-Template)
-> A boilerplate for building apps with GPT — complete with chat streaming and user session persistence.
+### 🎯 [ForceRank](https://github.com/lrspeiser/ForceRank)  
+**Debate-Driven Ranking Game**  
+> Rank your preferences, debate with friends, settle disagreements, and discover collective priorities. A social game designed with the help of LLMs.
 
-### 🌀 [RotationalCosmology](https://github.com/lrspeiser/RotationalCosmology)
-> What if Gödel was right and redshift came from a spinning universe? A data-driven hypothesis and visualization experiment in astrophysics.
+### 🧩 [Kazuke](https://github.com/lrspeiser/Kazuke)  
+**Number Puzzle Game**  
+> A fast-paced mental math game with puzzle strategy, created using LLMs as design partners.
+
+### 🔁 [Node-GPT-Template](https://github.com/lrspeiser/Node-GPT-Template)  
+**Start Here for GPT Apps**  
+> A boilerplate project to build GPT-powered Node.js web apps. Supports:
+> - Chat history per user  
+> - Streaming response to browser  
+> - Clean session management
+
+### 🌀 [RotationalCosmology](https://github.com/lrspeiser/RotationalCosmology)  
+**A Gödel-Inspired Hypothesis**  
+> A speculative cosmology experiment where redshift is driven by universal frame-dragging, not expansion. Built to explore ideas with real astrophysics data.
 
 ---
 
 ## 👨‍💼 About Me
 
 Since graduating from MIT in 1996, I've:
-- 🚀 Founded **Clover** (now processing $300B+ in payments under Fiserv)
-- 💼 Co-founded **Bix** (acquired by Yahoo!)
-- 🛒 Led product initiatives at **eBay** and **Intuit**
-- 💵 Worked on IPOs like **Amazon** at **Credit Suisse First Boston**
-- 🧠 Currently run **Horizon 3 Venture Studio**, launching fintech and SaaS companies in collaboration with Fortune 500s like **JLL** and **Prudential**
+- 🚀 Founded **Clover**, now processing over $300B in payments annually (acquired by Fiserv)
+- 💼 Co-founded **Bix**, acquired by Yahoo! in 2006
+- 🛒 Led product at **eBay** and **Intuit**
+- 💵 Took companies like **Amazon** public while at **Credit Suisse First Boston**
+- 🧠 Currently run **Horizon 3 Venture Studio**, launching fintech & SaaS startups with Fortune 500s like **JLL** and **Prudential**
 
-In my spare time, I mentor the amazing students of [Spartan Robotics](https://www.frc971.org/) — **FRC teams 971 and 9484** — based in Mountain View, CA.
+In my spare time, I coach students on [Spartan Robotics](https://www.frc971.org/) — **FRC teams 971 and 9484**, based in Mountain View, CA.
 
 ---
 
@@ -48,13 +73,14 @@ I treat LLMs like junior engineers with superpowers:
 
 Coding knowledge is optional in the age of AI. Imagination, curiosity, and good prompts are not.
 
+> “The best way to predict the future is to build it… or prompt it.”
+
 ---
 
 ## 🧠 Let's Connect
 
 Follow or reach out if you're:
-- Building with AI tools but not a coder.
-- Interested in the frontier of LLM-human collaboration.
-- A student, mentor, or robotics nerd.
+- Building with AI tools but not a coder
+- Exploring the edge of human-computer collaboration
+- A robotics mentor or AI hobbyist
 
-> “The best way to predict the future is to build it… or prompt it.”
