@@ -1,10 +1,3 @@
-# Hi, I'm Leonard 👋
-
-I don’t know how to code. But I do know how to *command* code — with the help of powerful Large Language Models like GPT and Claude.
-
-Most of the code in my repositories wasn't typed by me, but by AI systems working under my creative direction. I use LLMs as collaborators to turn my ideas into functioning software, often exploring new ways these tools can shape user experiences, educational platforms, and simulations.
-
----
 
 ## 🔧 What I Build
 
@@ -54,33 +47,11 @@ I build things powered by LLMs — whether they're interactive games, educationa
 ## 👨‍💼 About Me
 
 Since graduating from MIT in 1996, I've:
-- 🚀 Founded **Clover**, now processing over $300B in payments annually (acquired by Fiserv)
+- 🚀 Co-founded **Clover**, now processing over $400B in payments annually (acquired by Fiserv)
 - 💼 Co-founded **Bix**, acquired by Yahoo! in 2006
 - 🛒 Led product at **eBay** and **Intuit**
 - 💵 Took companies like **Amazon** public while at **Credit Suisse First Boston**
-- 🧠 Currently run **Horizon 3 Venture Studio**, launching fintech & SaaS startups with Fortune 500s like **JLL** and **Prudential**
 
 In my spare time, I coach students on [Spartan Robotics](https://www.frc971.org/) — **FRC teams 971 and 9484**, based in Mountain View, CA.
 
----
-
-## 🤖 Philosophy
-
-I treat LLMs like junior engineers with superpowers:
-- I give them instructions.
-- They write the code.
-- I direct, debug, and deploy.
-
-Coding knowledge is optional in the age of AI. Imagination, curiosity, and good prompts are not.
-
-> “The best way to predict the future is to build it… or prompt it.”
-
----
-
-## 🧠 Let's Connect
-
-Follow or reach out if you're:
-- Building with AI tools but not a coder
-- Exploring the edge of human-computer collaboration
-- A robotics mentor or AI hobbyist
 
