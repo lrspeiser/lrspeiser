@@ -5,19 +5,11 @@ I build things powered by LLMs — whether they're interactive games, educationa
 
 ### 🦙 [Alpaca.is](https://github.com/lrspeiser/Alpaca.is)  
 **Interactive City Exploration App**  
-> A mobile-first platform that gamifies travel through AI-generated, city-specific bingo cards. Designed for students and explorers, Alpaca encourages discovery through:
-> - Unique local activities per destination  
-> - Optional photo-based check-ins  
-> - Progress tracking across cities  
-> - AI-personalized travel prompts and challenges
+> A mobile-first platform that gamifies travel through AI-generated, city-specific bingo cards. Designed for students and explorers.
 
 ### 🧠 [Wordy](https://github.com/lrspeiser/Wordy)  
 **AI-Powered Thematic Crossword Generator**  
-> Generates 4x4 themed crossword puzzles using GPT-4.1. Each puzzle includes:
-> - Original clues and creative titles  
-> - Thematic coherence with educational value  
-> - Persistent saves for replayability  
-> - A unique gameplay experience every time
+> Generates 4x4 themed crossword puzzles using GPT.
 
 ### 🕹 [Grue.is](https://github.com/lrspeiser/Grue.is)  
 **Historical RPG Meets LLM**  
