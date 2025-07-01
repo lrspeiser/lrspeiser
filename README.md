@@ -31,12 +31,10 @@ I build things powered by LLMs — whether they're interactive games, educationa
 **Number Puzzle Game**  
 > A fast-paced mental math game with puzzle strategy, created using LLMs as design partners.
 
-### 🔁 [Node-GPT-Template](https://github.com/lrspeiser/Node-GPT-Template)  
-**Start Here for GPT Apps**  
-> A boilerplate project to build GPT-powered Node.js web apps. Supports:
-> - Chat history per user  
-> - Streaming response to browser  
-> - Clean session management
+### 🌌 [Density-Metric Gravity](https://github.com/lrspeiser/DensityDependentMetricModel)
+**Dark Matter-Free Galactic Dynamics via Density-Dependent Gravity**
+> Replaces dark matter with a density-modulated gravitational coupling
+> Matches 80,000 stars from Gaia DR3 with RMS ~35 km/s — no dark matter required
 
 ### 🌀 [RotationalCosmology](https://github.com/lrspeiser/RotationalCosmology)  
 **A Gödel-Inspired Hypothesis**  
