@@ -1,36 +1,36 @@
-
 ## 🔧 What I Build
 
-I build things powered by LLMs — whether they're interactive games, educational experiments, or tools that stretch the imagination. Some highlights:
+I build things powered by LLMs and physics — whether they're interactive games, educational experiments, or research systems.
 
-### 🦙 [Alpaca.is](https://github.com/lrspeiser/Alpaca.is)  
-**Interactive City Exploration App**  
-> A mobile-first platform that gamifies travel through AI-generated, city-specific bingo cards. Designed for students and explorers.
+### 🌌 [Geometry-Gated Gravity (G³)](https://github.com/lrspeiser/Geometry-Gated-Gravity)
 
-### 🧠 [Wordy](https://github.com/lrspeiser/Wordy)  
-**AI-Powered Thematic Crossword Generator**  
-> Generates 4x4 themed crossword puzzles using GPT.
+**A One-Law, Baryon-Only Route to Flat Galaxy Curves and Hot Cluster Support**
 
-### 🕹 [Grue.is](https://github.com/lrspeiser/Grue.is)  
-**Historical RPG Meets LLM**  
-> A GPT/Claude-powered game inspired by *Oregon Trail* but with infinite historical rabbit holes. The LLM *is* the dungeon master.
+> Geometry-gated scalar gravity that explains galaxy rotation curves and cluster hydrostatics without dark halos.
 
-### 🎯 [ForceRank](https://github.com/lrspeiser/ForceRank)  
-**Debate-Driven Ranking Game**  
-> Rank your preferences, debate with friends, settle disagreements, and discover collective priorities. A social game designed with the help of LLMs.
+### 📊 [Cedar Research Application](https://github.com/lrspeiser/Cedar-Research-Application)
 
-### 🧩 [Kazuke](https://github.com/lrspeiser/Kazuke)  
-**Number Puzzle Game**  
-> A fast-paced mental math game with puzzle strategy, created using LLMs as design partners.
+**AI-Native Data Analytics**
 
-### 🌌 [Density-Metric Gravity](https://github.com/lrspeiser/DensityDependentMetricModel)
-**Dark Matter-Free Galactic Dynamics via Density-Dependent Gravity**
-> Replaces dark matter with a density-modulated gravitational coupling
-> Matches 80,000 stars from Gaia DR3 with RMS ~35 km/s — no dark matter required
+> Structuring how we process tabular data, research documents, and analysis results into synthetic academic papers.
 
-### 🌀 [RotationalCosmology](https://github.com/lrspeiser/RotationalCosmology)  
-**A Gödel-Inspired Hypothesis**  
-> A speculative cosmology experiment where redshift is driven by universal frame-dragging, not expansion. Built to explore ideas with real astrophysics data.
+### 🕹 [Grue.is](https://github.com/lrspeiser/Grue.is)
+
+**Historical RPG Meets LLM**
+
+> Written by GPT and Claude, directed by me. A twist on *Oregon Trail* where the LLM can take you down infinite historical rabbit holes.
+
+### 🧠 [Wordy](https://github.com/lrspeiser/Wordy)
+
+**AI-Powered Thematic Crossword Generator**
+
+> A web app that automatically creates playable 4x4 themed crossword puzzles with unique educational clues.
+
+### 🔢 [rustprimegenerator](https://github.com/lrspeiser/rustprimegenerator)
+
+**Prime Numbers in Rust**
+
+> An exploration of different approaches in Rust to generate primes efficiently and elegantly.
 
 ---
 
