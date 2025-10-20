@@ -2,7 +2,7 @@
 
 I build things powered by LLMs and physics — whether they're interactive games, educational experiments, or research systems.
 
-### 🌌 Σ-Gravity (Sigma Gravity)
+### 🌌 [Σ-Gravity (Sigma Gravity)](https://github.com/lrspeiser/sigmagravity)
 
 **A Conservative, GR-Compatible Alternative to Dark Matter**
 
