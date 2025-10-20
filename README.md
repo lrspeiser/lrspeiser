@@ -2,11 +2,11 @@
 
 I build things powered by LLMs and physics — whether they're interactive games, educational experiments, or research systems.
 
-### 🌌 [Geometry-Gated Gravity (G³)](https://github.com/lrspeiser/Geometry-Gated-Gravity)
+### 🌌 Σ-Gravity (Sigma Gravity)
 
-**A One-Law, Baryon-Only Route to Flat Galaxy Curves and Hot Cluster Support**
+**A Conservative, GR-Compatible Alternative to Dark Matter**
 
-> Geometry-gated scalar gravity that explains galaxy rotation curves and cluster hydrostatics without dark halos.
+> We introduce Σ-Gravity, a framework in which the gravitational field of baryons is enhanced non-locally by the coherent superposition of near-geodesic path families. It explains flat galaxy rotation curves and cluster hydrostatics without invoking dark halos.
 
 ### 📊 [Cedar Research Application](https://github.com/lrspeiser/Cedar-Research-Application)
 
